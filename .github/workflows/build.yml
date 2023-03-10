@@ -26,7 +26,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.HUGO_BLOG_ACTIONS }}
-          external_repository: alphacatmeow/alphacat.github.io
+          external_repository: alphacatmeow/alphacatmeow.github.io
           publish_dir: ./public
           # keep_files: true
           user_name: alphacatmeow

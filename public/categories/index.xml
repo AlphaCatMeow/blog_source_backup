@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - AlphaCat Blog</title>
+        <link>http://alphacat.fun/categories/</link>
+        <description>Categories - Category - AlphaCat Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jinghao_chen@msn.com (Jason Chen)</managingEditor>
+            <webMaster>jinghao_chen@msn.com (Jason Chen)</webMaster><atom:link href="http://alphacat.fun/categories/" rel="self" type="application/rss+xml" /></channel>
+</rss>

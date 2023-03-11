@@ -109,9 +109,9 @@ class Solution:
         return max(self.maxDepth(root.left), self.maxDepth(root.right)) + 1
 ```
 
-题目二：判断二叉树是否对称
+### 题目二：判断二叉树是否对称
 给定一个二叉树，检查它是否是镜像对称的。
-例如，二叉树 [1,2,2,3,4,4,3] 是对称的。
+例如，二叉树 `[1,2,2,3,4,4,3]` 是对称的。
 ```markdown
       1
      / \
@@ -120,7 +120,7 @@ class Solution:
   3  4 4  3
 ```
 
-但是下面这个 [1,2,2,null,3,null,3] 则不是镜像对称的:
+但是下面这个 `[1,2,2,null,3,null,3]` 则不是镜像对称的:
 ```markdown
       1
      / \

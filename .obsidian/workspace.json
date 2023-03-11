@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "cddee8c648d56990",
+    "type": "split",
+    "children": [
+      {
+        "id": "97eb478861da4046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c0aa0d4cdbef5bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/theme-documentation-basics/index.zh-cn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "624bd613ae8ed528",
+    "type": "split",
+    "children": [
+      {
+        "id": "102eb45761d0b0bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9558c09e2bd442b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c68026d271fa5924",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "522a384d1f54c033",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39f0f350aba8acc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "336b66b7f2e8a063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a05a09af09e4ca7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/theme-documentation-basics/index.zh-cn.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed31506ca1848acc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/posts/theme-documentation-basics/index.zh-cn.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24884700c796b6a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "84afd46cc0ad1ffd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/theme-documentation-basics/index.zh-cn.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false
+    }
+  },
+  "active": "7c0aa0d4cdbef5bc",
+  "lastOpenFiles": [
+    "content/posts/theme-documentation-basics/basic-configuration-preview.png",
+    "content/posts/emoji-support/index.zh-cn.md",
+    "content/posts/basic-markdown-syntax/index.zh-cn.md",
+    "content/posts/算法学习第一天/index.zh-cn.md"
+  ]
+}

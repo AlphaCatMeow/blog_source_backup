@@ -3,15 +3,15 @@ title: "{{ replace .TranslationBaseName "-" " " | title }}"
 subtitle: ""
 date: {{ .Date }}
 lastmod: {{ .Date }}
-draft: false
-author: ""
-authorLink: ""
+draft: true
+author: "Jason"
+authorLink: "https://alphacat.fun"
 description: ""
 license: ""
 images: []
 
-tags: []
-categories: []
+tags: ['算法与数据结构']
+categories: ['算法与数据结构']
 
 featuredImage: ""
 featuredImagePreview: ""
@@ -33,7 +33,7 @@ code:
   copy: true
   maxShownLines: 50
 math:
-  enable: false
+  enable: true
   # ...
 mapbox:
   # ...

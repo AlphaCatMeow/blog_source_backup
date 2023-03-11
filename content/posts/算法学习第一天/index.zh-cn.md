@@ -1,9 +1,10 @@
 ---
+weight: 4
 title: "算法学习第一天"
 subtitle: ""
 date: 2023-03-11T21:41:39+08:00
 lastmod: 2023-03-11T21:41:39+08:00
-draft: true
+draft: false
 author: "Jason"
 authorLink: "https://alphacat.fun"
 description: "学习算法与数据结构中的二叉树知识点，掌握Python3解答，提升编程能力！了解二叉树的概念和遍历方式，学会Python3实现，为你的编程之路保驾护航！解决二叉树相关题目，学习Python3编程技巧，让你的代码更加高效！"

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/算法学习第一天/index.zh-cn.md",
+                "file": "content/posts/theme-documentation-basics/index.zh-cn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/算法学习第一天/index.zh-cn.md",
+                "file": "content/posts/theme-documentation-basics/index.zh-cn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/算法学习第一天/index.zh-cn.md",
+                "file": "content/posts/theme-documentation-basics/index.zh-cn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/算法学习第一天/index.zh-cn.md"
+                "file": "content/posts/theme-documentation-basics/index.zh-cn.md"
               }
             }
           }

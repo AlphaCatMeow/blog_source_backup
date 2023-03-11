@@ -48,7 +48,7 @@ defaultContentLanguage = "zh-cn"
 
   [languages.zh-cn]
     weight = 2
-    title = "我的全新 Hugo 网站"
+    title = "AlphaCat"
     languageCode = "zh-CN"
     languageName = "简体中文"
     hasCJKLanguage = true

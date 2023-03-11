@@ -25,5 +25,5 @@
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
   "gitDir": "",
-  "autoCommitMessage": "vault backup: {{date}}"
+  "autoCommitMessage": "博客文章源码更新: {{date}}"
 }

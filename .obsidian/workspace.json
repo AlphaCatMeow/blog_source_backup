@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a3ac62bb0632f89c",
+        "id": "61f0addd92b93c4c",
         "type": "tabs",
         "children": [
           {
-            "id": "40583c2db49aa1b0",
+            "id": "d9676873b33c8728",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/算法学习第一天/index.zh-cn.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/算法学习第一天/index.zh-cn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/算法学习第一天/index.zh-cn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/posts/算法学习第一天/index.zh-cn.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,12 +145,12 @@
       "publish:发布更改": false
     }
   },
-  "active": "40583c2db49aa1b0",
+  "active": "d9676873b33c8728",
   "lastOpenFiles": [
+    "content/posts/算法学习第一天/index.zh-cn.md",
+    "content/posts/basic-markdown-syntax/index.zh-cn.md",
     "content/posts/theme-documentation-basics/index.zh-cn.md",
     "content/posts/theme-documentation-basics/basic-configuration-preview.png",
-    "content/posts/emoji-support/index.zh-cn.md",
-    "content/posts/basic-markdown-syntax/index.zh-cn.md",
-    "content/posts/算法学习第一天/index.zh-cn.md"
+    "content/posts/emoji-support/index.zh-cn.md"
   ]
 }

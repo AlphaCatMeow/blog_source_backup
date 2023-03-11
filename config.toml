@@ -481,9 +481,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         # 
         enable = true
         owner = "alphacatmeow"
-        repo = "AlphaCatMeow/gitalk"
+        repo = "gitalk"
         clientId = "2b45e564b647ce26d829"
-        clientSecret = "b79b08472af53f42d95e49f24e63a13cb4ebf89b"
+        clientSecret = "4ec95835b42527ade6b03131ed2f5035e632c570"
       # Valine 评论系统设置
       [params.page.comment.valine]
         enable = false

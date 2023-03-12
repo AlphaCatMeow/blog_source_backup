@@ -96,7 +96,9 @@ class Solution:
 ```
 
 ### [第二题.力扣144.二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/)
-输入：`root = [1,2]` 输出：`[1,2]`
+输入：`root = [1,2]` 
+输出：`[1,2]`
+
 **示例：**
 ![](https://assets.leetcode.com/uploads/2020/09/15/inorder_1.jpg)
 

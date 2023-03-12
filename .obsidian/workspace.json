@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/二叉树（1）/index.zh-cn.md",
+                "file": "content/posts/二叉树（2）/index.zh-cn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/二叉树（1）/index.zh-cn.md",
+                "file": "content/posts/二叉树（2）/index.zh-cn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/二叉树（1）/index.zh-cn.md",
+                "file": "content/posts/二叉树（2）/index.zh-cn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/二叉树（1）/index.zh-cn.md"
+                "file": "content/posts/二叉树（2）/index.zh-cn.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "0c6f64df637090a4",
   "lastOpenFiles": [
+    "content/posts/二叉树（1）/index.zh-cn.md",
     "content/posts/二叉树（2）/index.zh-cn.md",
     "content/posts/未命名",
-    "content/posts/二叉树（1）/index.zh-cn.md",
     "content/posts/theme-documentation-typeit-shortcode/index.en.md",
     "content/posts/theme-documentation-typeit-shortcode/index.zh-cn.md",
     "content/posts/theme-documentation-music-shortcode/index.en.md",

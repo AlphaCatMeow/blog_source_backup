@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b6c5dea21ecc4c79",
+        "id": "ba159761ad94d5c8",
         "type": "tabs",
         "children": [
           {
-            "id": "0c6f64df637090a4",
+            "id": "deb1db3aa1e80084",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/二叉树（2）/index.zh-cn.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/二叉树（2）/index.zh-cn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/二叉树（2）/index.zh-cn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/posts/二叉树（2）/index.zh-cn.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +139,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c6f64df637090a4",
+  "active": "deb1db3aa1e80084",
   "lastOpenFiles": [
-    "content/posts/二叉树（1）/index.zh-cn.md",
+    "content/posts/初中数学第一课/index.zh-cn.md",
+    "content/posts/初中数学第二课/index.zh-cn.md",
+    "content/posts/初中数学第一课",
+    "archetypes/default.md",
+    "content/posts/初中数学第二课",
+    "content/posts/初中数学第一课.md",
     "content/posts/二叉树（2）/index.zh-cn.md",
+    "content/posts/二叉树（1）/index.zh-cn.md",
     "content/posts/未命名",
     "content/posts/theme-documentation-typeit-shortcode/index.en.md",
     "content/posts/theme-documentation-typeit-shortcode/index.zh-cn.md",
@@ -171,10 +169,6 @@
     "content/posts/theme-documentation-bilibili-shortcode/index.en.md",
     "content/posts/theme-documentation-bilibili-shortcode/index.zh-cn.md",
     "content/posts/theme-documentation-basics/index.en.md",
-    "content/posts/theme-documentation-basics/index.zh-cn.md",
-    "content/posts/emoji-support/index.en.md",
-    "content/posts/emoji-support/index.zh-cn.md",
-    "content/posts/basic-markdown-syntax/index.en.md",
     "content/posts/二叉树（2）",
     "content/posts/theme-documentation-basics/basic-configuration-preview.png"
   ]

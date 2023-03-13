@@ -18,7 +18,7 @@ defaultContentLanguage = "zh-cn"
 [languages]
   [languages.en]
     weight = 1
-    title = "My New Hugo Site"
+    title = "AlphaCat"
     languageCode = "en"
     languageName = "English"
     [[languages.en.menu.main]]
@@ -79,7 +79,7 @@ defaultContentLanguage = "zh-cn"
 
   [languages.fr]
     weight = 3
-    title = "Mon nouveau site Hugo"
+    title = "AlphaCat"
     languageCode = "fr"
     languageName = "Français"
     [[languages.fr.menu.main]]
@@ -683,7 +683,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Permalinks 配置
 [Permalinks]
   # posts = ":year/:month/:filename"
-  posts = ":filename"
+  posts = "/:title"
 
 # 隐私信息配置
 [privacy]

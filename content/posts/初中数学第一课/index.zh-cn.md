@@ -58,5 +58,5 @@ seo:
   images: []
   # ...
 ---
-{{< bilibili BV114411Q7Y4 1 >}}
+
 <!--more-->

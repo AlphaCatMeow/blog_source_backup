@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ba159761ad94d5c8",
+        "id": "7f704fd50b81d93a",
         "type": "tabs",
         "children": [
           {
-            "id": "deb1db3aa1e80084",
+            "id": "3a0aebeca2ad0237",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/初中数学第一课/index.zh-cn.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/初中数学第一课/index.zh-cn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/初中数学第一课/index.zh-cn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/posts/初中数学第一课/index.zh-cn.md"
+              }
             }
           }
         ]
@@ -139,12 +147,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "deb1db3aa1e80084",
+  "active": "3a0aebeca2ad0237",
   "lastOpenFiles": [
+    "archetypes/default.md",
     "content/posts/初中数学第一课/index.zh-cn.md",
     "content/posts/初中数学第二课/index.zh-cn.md",
     "content/posts/初中数学第一课",
-    "archetypes/default.md",
     "content/posts/初中数学第二课",
     "content/posts/初中数学第一课.md",
     "content/posts/二叉树（2）/index.zh-cn.md",

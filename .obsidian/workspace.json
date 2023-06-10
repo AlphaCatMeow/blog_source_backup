@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/初一数学/index.zh-cn.md",
+                "file": "content/posts/初二数学/index.zh-cn.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "629fecdb29a07c6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/初一数学/index.zh-cn.md",
+                "file": "content/posts/初二数学/index.zh-cn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/初一数学/index.zh-cn.md",
+                "file": "content/posts/初二数学/index.zh-cn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/初一数学/index.zh-cn.md"
+                "file": "content/posts/初二数学/index.zh-cn.md"
               }
             }
           }
@@ -147,10 +155,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a9558c09e2bd442b",
+  "active": "62bdce53a2bcba20",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "content/posts/初一数学/index.zh-cn.md",
+    "content/posts/机器学习数学基础/index.zh-cn.md",
+    "content/posts/机器学习数学基础",
+    "content/posts/高等数学/index.zh-cn.md",
+    "content/posts/高等数学",
+    "content/posts/线性代数/index.zh-cn.md",
+    "content/posts/线性代数",
+    "content/posts/高三数学/index.zh-cn.md",
+    "content/posts/高三数学",
+    "content/posts/高二数学/index.zh-cn.md",
+    "content/posts/高二数学",
+    "content/posts/高一数学/index.zh-cn.md",
+    "content/posts/高一数学",
+    "content/posts/初三数学/index.zh-cn.md",
+    "content/posts/初三数学",
+    "content/posts/初二数学/index.zh-cn.md",
+    "content/posts/初二数学",
+    "未命名.md",
+    "conflict-files-obsidian-git.md",
     "archetypes/default.md",
     "content/posts/初中数学第二课/index.zh-cn.md",
     "content/posts/初一数学",
@@ -158,7 +183,6 @@
     "content/posts/初中数学第一课.md",
     "content/posts/二叉树（2）/index.zh-cn.md",
     "content/posts/二叉树（1）/index.zh-cn.md",
-    "content/posts/未命名",
     "content/posts/theme-documentation-typeit-shortcode/index.en.md",
     "content/posts/theme-documentation-typeit-shortcode/index.zh-cn.md",
     "content/posts/theme-documentation-music-shortcode/index.en.md",
@@ -169,16 +193,6 @@
     "content/posts/theme-documentation-mapbox-shortcode/index.zh-cn.md",
     "content/posts/theme-documentation-extended-shortcodes/index.en.md",
     "content/posts/theme-documentation-extended-shortcodes/index.zh-cn.md",
-    "content/posts/theme-documentation-echarts-shortcode/index.en.md",
-    "content/posts/theme-documentation-echarts-shortcode/index.zh-cn.md",
-    "content/posts/theme-documentation-content/index.en.md",
-    "content/posts/theme-documentation-content/index.zh-cn.md",
-    "content/posts/theme-documentation-built-in-shortcodes/index.en.md",
-    "content/posts/theme-documentation-built-in-shortcodes/index.zh-cn.md",
-    "content/posts/theme-documentation-bilibili-shortcode/index.en.md",
-    "content/posts/theme-documentation-bilibili-shortcode/index.zh-cn.md",
-    "content/posts/theme-documentation-basics/index.en.md",
-    "content/posts/二叉树（2）",
     "content/posts/theme-documentation-basics/basic-configuration-preview.png"
   ]
 }

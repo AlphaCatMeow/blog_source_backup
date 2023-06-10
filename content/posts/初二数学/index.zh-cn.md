@@ -3,7 +3,7 @@ title: "初二数学"
 subtitle: ""
 date: 2023-06-10T15:46:39+08:00
 lastmod: 2023-06-10T15:46:39+08:00
-draft: true
+draft: false
 author: "Jason"
 authorLink: "https://alphacat.fun"
 description: ""

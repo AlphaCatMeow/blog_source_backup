@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7f704fd50b81d93a",
+        "id": "a95c12c6f04ca445",
         "type": "tabs",
         "children": [
           {
-            "id": "62bdce53a2bcba20",
+            "id": "9dd3326b45e9fd5b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/初二数学/index.zh-cn.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/初二数学/index.zh-cn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/初二数学/index.zh-cn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/posts/初二数学/index.zh-cn.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,44 +147,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62bdce53a2bcba20",
+  "active": "9dd3326b45e9fd5b",
   "lastOpenFiles": [
+    "content/posts/初二数学/index.zh-cn.md",
+    "content/posts/算法与数据结构练习10/index.zh-cn.md",
+    "content/posts/算法与数据结构练习10",
+    "content/posts/算法与数据结构练习9/index.zh-cn.md",
+    "content/posts/算法与数据结构练习9",
+    "content/posts/算法与数据结构练习8/index.zh-cn.md",
+    "content/posts/算法与数据结构练习8",
+    "content/posts/算法与数据结构练习7/index.zh-cn.md",
+    "content/posts/算法与数据结构练习7",
+    "content/posts/算法与数据结构练习6/index.zh-cn.md",
+    "content/posts/算法与数据结构练习6",
+    "content/posts/算法与数据结构练习5/index.zh-cn.md",
+    "content/posts/算法与数据结构练习5",
+    "content/posts/算法与数据结构练习4/index.zh-cn.md",
+    "content/posts/算法与数据结构练习4",
+    "content/posts/算法与数据结构练习3/index.zh-cn.md",
+    "content/posts/算法与数据结构练习3",
+    "content/posts/算法与数据结构练习2/index.zh-cn.md",
+    "content/posts/算法与数据结构练习2",
+    "content/posts/算法与数据结构练习1/index.zh-cn.md",
+    "content/posts/算法与数据结构练习1",
+    "content/posts/算法练习5/index.zh-cn.md",
+    "content/posts/算法练习4/index.zh-cn.md",
+    "content/posts/算法练习3/index.zh-cn.md",
+    "content/posts/算法练习2/index.zh-cn.md",
+    "content/posts/算法练习1/index.zh-cn.md",
+    "content/未命名.md",
     "content/posts/初一数学/index.zh-cn.md",
     "content/posts/机器学习数学基础/index.zh-cn.md",
-    "content/posts/机器学习数学基础",
     "content/posts/高等数学/index.zh-cn.md",
-    "content/posts/高等数学",
     "content/posts/线性代数/index.zh-cn.md",
-    "content/posts/线性代数",
     "content/posts/高三数学/index.zh-cn.md",
-    "content/posts/高三数学",
     "content/posts/高二数学/index.zh-cn.md",
-    "content/posts/高二数学",
     "content/posts/高一数学/index.zh-cn.md",
-    "content/posts/高一数学",
     "content/posts/初三数学/index.zh-cn.md",
-    "content/posts/初三数学",
-    "content/posts/初二数学/index.zh-cn.md",
-    "content/posts/初二数学",
     "未命名.md",
-    "conflict-files-obsidian-git.md",
-    "archetypes/default.md",
-    "content/posts/初中数学第二课/index.zh-cn.md",
-    "content/posts/初一数学",
-    "content/posts/初中数学第二课",
-    "content/posts/初中数学第一课.md",
-    "content/posts/二叉树（2）/index.zh-cn.md",
-    "content/posts/二叉树（1）/index.zh-cn.md",
-    "content/posts/theme-documentation-typeit-shortcode/index.en.md",
-    "content/posts/theme-documentation-typeit-shortcode/index.zh-cn.md",
-    "content/posts/theme-documentation-music-shortcode/index.en.md",
-    "content/posts/theme-documentation-music-shortcode/index.zh-cn.md",
-    "content/posts/theme-documentation-mermaid-shortcode/index.en.md",
-    "content/posts/theme-documentation-mermaid-shortcode/index.zh-cn.md",
-    "content/posts/theme-documentation-mapbox-shortcode/index.en.md",
-    "content/posts/theme-documentation-mapbox-shortcode/index.zh-cn.md",
-    "content/posts/theme-documentation-extended-shortcodes/index.en.md",
-    "content/posts/theme-documentation-extended-shortcodes/index.zh-cn.md",
     "content/posts/theme-documentation-basics/basic-configuration-preview.png"
   ]
 }

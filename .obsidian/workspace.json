@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a95c12c6f04ca445",
+        "id": "abc7b20ed7d0de2a",
         "type": "tabs",
         "children": [
           {
-            "id": "9dd3326b45e9fd5b",
+            "id": "f474eec06c2ed815",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -144,11 +144,22 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "publish:发布更改": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "9dd3326b45e9fd5b",
+  "active": "f474eec06c2ed815",
   "lastOpenFiles": [
+    "content/tags/configuration/_index.zh-cn.md",
+    "content/posts/AIGC学习手记",
+    "content/tags/installation/_index.zh-cn.md",
+    "content/tags/content/_index.zh-cn.md",
+    "content/posts/emoji-support/index.zh-cn.md",
+    "content/posts/emoji-support/index.en.md",
+    "content/posts/basic-markdown-syntax/index.zh-cn.md",
+    "content/posts/basic-markdown-syntax/index.en.md",
+    "content/posts/basic-markdown-syntax/featured-image.png",
+    "content/posts/初一数学/index.zh-cn.md",
     "content/posts/初二数学/index.zh-cn.md",
     "content/posts/算法与数据结构练习10/index.zh-cn.md",
     "content/posts/算法与数据结构练习10",
@@ -169,22 +180,13 @@
     "content/posts/算法与数据结构练习2/index.zh-cn.md",
     "content/posts/算法与数据结构练习2",
     "content/posts/算法与数据结构练习1/index.zh-cn.md",
-    "content/posts/算法与数据结构练习1",
     "content/posts/算法练习5/index.zh-cn.md",
     "content/posts/算法练习4/index.zh-cn.md",
     "content/posts/算法练习3/index.zh-cn.md",
     "content/posts/算法练习2/index.zh-cn.md",
     "content/posts/算法练习1/index.zh-cn.md",
     "content/未命名.md",
-    "content/posts/初一数学/index.zh-cn.md",
     "content/posts/机器学习数学基础/index.zh-cn.md",
-    "content/posts/高等数学/index.zh-cn.md",
-    "content/posts/线性代数/index.zh-cn.md",
-    "content/posts/高三数学/index.zh-cn.md",
-    "content/posts/高二数学/index.zh-cn.md",
-    "content/posts/高一数学/index.zh-cn.md",
-    "content/posts/初三数学/index.zh-cn.md",
-    "未命名.md",
     "content/posts/theme-documentation-basics/basic-configuration-preview.png"
   ]
 }

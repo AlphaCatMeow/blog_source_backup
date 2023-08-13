@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "abc7b20ed7d0de2a",
+        "id": "d86f4aad39c52abc",
         "type": "tabs",
         "children": [
           {
-            "id": "f474eec06c2ed815",
+            "id": "14f91de15316170a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/AI摄影手册/index.zh-cn.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/AI摄影手册/index.zh-cn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/AI摄影手册/index.zh-cn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/posts/AI摄影手册/index.zh-cn.md"
+              }
             }
           }
         ]
@@ -148,10 +156,25 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "f474eec06c2ed815",
+  "active": "14f91de15316170a",
   "lastOpenFiles": [
-    "content/tags/configuration/_index.zh-cn.md",
+    "content/posts/AIGC学习手记/index.zh-cn.md",
     "content/posts/AIGC学习手记",
+    "public/fr/tags/index.html",
+    "public/fr/categories/index.html",
+    "public/fr/tags",
+    "public/fr/sitemap.xml",
+    "public/fr/index.xml",
+    "public/fr/index.json",
+    "public/fr/index.html",
+    "public/fr/categories",
+    "public/fr/404.html",
+    "public/初二数学/index.md",
+    "public/初一数学/index.md",
+    "public/二叉树2/index.md",
+    "public/二叉树1/index.md",
+    "public/en/about/index.md",
+    "content/tags/configuration/_index.zh-cn.md",
     "content/tags/installation/_index.zh-cn.md",
     "content/tags/content/_index.zh-cn.md",
     "content/posts/emoji-support/index.zh-cn.md",
@@ -162,31 +185,16 @@
     "content/posts/初一数学/index.zh-cn.md",
     "content/posts/初二数学/index.zh-cn.md",
     "content/posts/算法与数据结构练习10/index.zh-cn.md",
-    "content/posts/算法与数据结构练习10",
     "content/posts/算法与数据结构练习9/index.zh-cn.md",
-    "content/posts/算法与数据结构练习9",
     "content/posts/算法与数据结构练习8/index.zh-cn.md",
-    "content/posts/算法与数据结构练习8",
     "content/posts/算法与数据结构练习7/index.zh-cn.md",
-    "content/posts/算法与数据结构练习7",
     "content/posts/算法与数据结构练习6/index.zh-cn.md",
-    "content/posts/算法与数据结构练习6",
     "content/posts/算法与数据结构练习5/index.zh-cn.md",
-    "content/posts/算法与数据结构练习5",
     "content/posts/算法与数据结构练习4/index.zh-cn.md",
-    "content/posts/算法与数据结构练习4",
     "content/posts/算法与数据结构练习3/index.zh-cn.md",
-    "content/posts/算法与数据结构练习3",
     "content/posts/算法与数据结构练习2/index.zh-cn.md",
-    "content/posts/算法与数据结构练习2",
     "content/posts/算法与数据结构练习1/index.zh-cn.md",
     "content/posts/算法练习5/index.zh-cn.md",
-    "content/posts/算法练习4/index.zh-cn.md",
-    "content/posts/算法练习3/index.zh-cn.md",
-    "content/posts/算法练习2/index.zh-cn.md",
-    "content/posts/算法练习1/index.zh-cn.md",
-    "content/未命名.md",
-    "content/posts/机器学习数学基础/index.zh-cn.md",
     "content/posts/theme-documentation-basics/basic-configuration-preview.png"
   ]
 }

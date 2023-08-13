@@ -1,90 +1,131 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - AlphaCat Blog</title>
+        <title>所有文章 - AlphaCat</title>
         <link>http://alphacat.fun/posts/</link>
-        <description>All Posts | AlphaCat Blog</description>
-        <generator>Hugo -- gohugo.io</generator><managingEditor>jinghao_chen@msn.com (Jason Chen)</managingEditor>
-            <webMaster>jinghao_chen@msn.com (Jason Chen)</webMaster><lastBuildDate>Sat, 11 Mar 2023 00:58:13 &#43;0800</lastBuildDate><atom:link href="http://alphacat.fun/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Theme Documentation - Basics</title>
-    <link>http://alphacat.fun/theme-documentation-basics/</link>
-    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://alphacat.fun/theme-documentation-basics/</guid>
-    <description><![CDATA[<p>Discover what the Hugo - <strong>LoveIt</strong> theme is all about and the core-concepts behind it.</p>]]></description>
+        <description>所有文章 | AlphaCat</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jinghao_chen@msn.com (Jason Chen)</managingEditor>
+            <webMaster>jinghao_chen@msn.com (Jason Chen)</webMaster><lastBuildDate>Sat, 10 Jun 2023 15:46:39 &#43;0800</lastBuildDate><atom:link href="http://alphacat.fun/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>二叉树（1）</title>
+    <link>http://alphacat.fun/%E4%BA%8C%E5%8F%89%E6%A0%911/</link>
+    <pubDate>Sat, 11 Mar 2023 21:41:39 &#43;0800</pubDate>
+    <author>Jason</author>
+    <guid>http://alphacat.fun/%E4%BA%8C%E5%8F%89%E6%A0%911/</guid>
+    <description><![CDATA[<h1 id="二叉树知识点梳理">二叉树知识点梳理</h1>
+<p>如果你正在学习算法与数据结构，那么二叉树肯定是一个非常重要的知识点。在这篇文章中，我将为你梳理二叉树相关的知识点，并提供使用Python3语言解答的示例题目。</p>
+<h2 id="什么是二叉树">什么是二叉树？</h2>
+<p>二叉树是一种树状结构，每个节点最多只有两个子节点，分别为左子节点和右子节点。二叉树有很多种形态，包括平衡二叉树、完全二叉树、满二叉树等等。</p>
+<h2 id="二叉树的遍历方式">二叉树的遍历方式</h2>
+<p>遍历二叉树的方式有三种：前序遍历、中序遍历和后序遍历。其中，前序遍历的顺序是先遍历根节点，然后遍历左子树，最后遍历右子树；中序遍历的顺序是先遍历左子树，然后遍历根节点，最后遍历右子树；后序遍历的顺序是先遍历左子树，然后遍历右子树，最后遍历根节点。</p>
+<h2 id="二叉树的应用场景">二叉树的应用场景</h2>
+<p>二叉树在很多领域都有着广泛的应用，比如计算机网络中的路由表、文件系统中的文件目录结构、数据库中的索引结构等等。</p>
+<h2 id="使用python3解答二叉树相关题目">使用Python3解答二叉树相关题目</h2>
+<p>下面提供两个使用Python3语言解答的二叉树相关题目：</p>
+<h3 id="题目一二叉树的最大深度">题目一：二叉树的最大深度</h3>
+<p>给定一个二叉树，找出其最大深度。最大深度指的是从根节点到最远叶子节点的最长路径上的节点数。</p>
+<p><strong>示例：</strong></p>
+<p>输入：<code>root = [3,9,20,null,null,15,7]</code>
+输出：3</p>]]></description>
 </item>
 <item>
-    <title>Theme Documentation - Content</title>
-    <link>http://alphacat.fun/theme-documentation-content/</link>
-    <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://alphacat.fun/theme-documentation-content/</guid>
-    <description><![CDATA[<p>Find out how to create and organize your content quickly and intuitively in <strong>LoveIt</strong> theme.</p>]]></description>
+    <title>初二数学</title>
+    <link>http://alphacat.fun/%E5%88%9D%E4%BA%8C%E6%95%B0%E5%AD%A6/</link>
+    <pubDate>Sat, 10 Jun 2023 15:46:39 &#43;0800</pubDate>
+    <author>Jason</author>
+    <guid>http://alphacat.fun/%E5%88%9D%E4%BA%8C%E6%95%B0%E5%AD%A6/</guid>
+    <description><![CDATA[<ul>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 三角形的定义：由三条不在同一直线上的三条线段组成首尾相连的平面图形叫做三角形；三角形的顶点；三角形的边、内角</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 三角形的高、中线与角平分线、三角形的稳定性；锐角三角形的三条高线交于一点，三条高线都在三角形的内部；直角三角形的高交于直角顶点；钝角三角形的高不相交于一点，它们所在的直线相交于一点。</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 三角形的内角；三角形内角和是180度；三角形的外角</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 多边形及其内角和；正多边形内角和都相等，正多边形的每条边都相等</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 全等三角形：能够完全重合的两个三角形叫做全等三角形</li>
+</ul>]]></description>
 </item>
 <item>
-    <title>Theme Documentation - Built-in Shortcodes</title>
-    <link>http://alphacat.fun/theme-documentation-built-in-shortcodes/</link>
-    <pubDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://alphacat.fun/theme-documentation-built-in-shortcodes/</guid>
-    <description><![CDATA[<p><strong>Hugo</strong> provides multiple built-in shortcodes for author convenience and to keep your markdown content clean.</p>]]></description>
+    <title>初一数学</title>
+    <link>http://alphacat.fun/%E5%88%9D%E4%B8%80%E6%95%B0%E5%AD%A6/</link>
+    <pubDate>Mon, 13 Mar 2023 21:26:09 &#43;0800</pubDate>
+    <author>Jason</author>
+    <guid>http://alphacat.fun/%E5%88%9D%E4%B8%80%E6%95%B0%E5%AD%A6/</guid>
+    <description><![CDATA[<ul>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 正数和负数</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 有理数</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 数轴</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 相反数</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 绝对值</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 有理数的加减法</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 有理数的乘法</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 有理数的除法</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 乘方$2^8 = 256$</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 科学计数法    $300000=3×10^5$, $260000000=2.6×10^8$</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 近似数</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 整式$a×10=10a$。$log_i10$。单项式与多项式统称为整式</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 单项式：数与字母的乘积，单独一个数字或单独的一个字母也是单项式，前面的数字叫做这个单项式的系数。所有字母的指数的和叫做单项式的次数。</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 多项式：几个单项式的和叫做多项式，每个单项式叫做这个多项式的项。多项式里次数最高的单项式的次数，叫做这个多项式的次数。多项式的每一项都包括前面的符号。不含字母的项叫做常数项</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 整式的加减乘除（注意项数，注意各项的符号）</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 一元一次方程：含有未知数的等式叫做方程。包含一个未知数且最高次数为1的等式叫做一元一次方程</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 等式的性质：1.等式两边加或减同一个数或式子，结果仍相等；2.等式两边乘同一个数或除以同一个不为0的数，结果仍相等</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 合并同类项：字母不变，系数相加减；移项</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 立体图形与平面图形：长方体、正方体、圆柱体、球、圆锥体、三棱柱、六棱柱、三棱锥等，这些几何图形各个部分不都在同一个平面内，因此被称为立体图形</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 点、线、面、体</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 直线、射线、线段</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 角，角的比较与运算，余角：两角之和为90°；补角：两角之和为180°。</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 相交线：如果两条直线只有一个公共点，这两条直线就被称为相交线；两个相邻角的特点：有一条公共边，角的另一边互为反向延长线；对顶角的特点：顶点相同，角的两边互为反向延长线，且两个对顶角成对出现，对顶角相等；</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 同位角：两角在截线的同侧，并且在被截线的同一方；内错角：两角在截线的两侧，且在两被截直线之间的角为内错角；同旁内角：两角在截线的同侧，且在两被截线之间的角为同旁内角。</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 平行线：同一平面内，不相交的两条直线互为平行线；如果两条直线都与第三条直线平行，则两直线平行，同位角相等，两直线平行，内错角相等，两直线平行，同旁内角互补，两直线平行，同一平面内垂直于同一直线的条直线平行。</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 命题：能够判断真假的语句叫做命题；如果题设成立，结论一定成立，则该命题为真命题，如果结论不一定成立，则为假命题；经过推理证明得到的真命题叫做定理，推理的过程叫做证明。</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 算数平方根：如果一个正数x的平方等于a，即 $x^2=a$ ，那么正数x叫做a的算数平方根 $√4=2$ ；如果 $x^2=a$ ，那么x就叫做a的平方根（二次方根）；求一个数a的平方根的运算，叫做开平方，a叫做被开方数。平方与开平方互为逆运算。</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 立方根：一个数的立方等于啊，这个数就叫做a的立方根，也叫做a的三次方根，记作 $^3√a$，其中3叫做根指数，不能省略。求一个数立方根的运算叫做开立方。</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 实数：有理数都可以写成有限小数或无限循环小数，任何有限小数或无限循环小数都是有理数；无限不循环的小数叫做无理数；有理数和无理数统称实数</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 有序数对</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 平面直角坐标系，用坐标表示地理位置，用坐标表示平移</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 二元一次方程，二元一次方程组，三元一次方程组，带入消元法，加减消元法</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 不等式及其解集</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 一元一次不等式组</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 统计调查</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 直方图</li>
+</ul>]]></description>
 </item>
 <item>
-    <title>Theme Documentation - Extended Shortcodes</title>
-    <link>http://alphacat.fun/theme-documentation-extended-shortcodes/</link>
-    <pubDate>Tue, 03 Mar 2020 16:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://alphacat.fun/theme-documentation-extended-shortcodes/</guid>
-    <description><![CDATA[<p><strong>LoveIt</strong> theme provides multiple shortcodes on top of built-in ones in Hugo.</p>]]></description>
-</item>
-<item>
-    <title>Basic Markdown Syntax</title>
-    <link>http://alphacat.fun/basic-markdown-syntax/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://alphacat.fun/basic-markdown-syntax/</guid>
-    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - mermaid Shortcode</title>
-    <link>http://alphacat.fun/theme-documentation-mermaid-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 15:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://alphacat.fun/theme-documentation-mermaid-shortcode/</guid>
-    <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.11" rel="noopener noreffer" target="_blank"></a>
-<p>The <code>mermaid</code> shortcode supports diagrams in Hugo with <a href="https://mermaidjs.github.io/" target="_blank" rel="noopener noreffer ">Mermaid</a> library.</p>]]></description>
-</item>
-<item>
-    <title>Emoji Support</title>
-    <link>http://alphacat.fun/emoji-support/</link>
-    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://alphacat.fun/emoji-support/</guid>
-    <description><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - echarts Shortcode</title>
-    <link>http://alphacat.fun/theme-documentation-echarts-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 14:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://alphacat.fun/theme-documentation-echarts-shortcode/</guid>
-    <description><![CDATA[<p>The <code>echarts</code> shortcode supports data visualization in Hugo with <a href="https://echarts.apache.org/" target="_blank" rel="noopener noreffer ">ECharts</a> library.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - mapbox Shortcode</title>
-    <link>http://alphacat.fun/theme-documentation-mapbox-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 13:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://alphacat.fun/theme-documentation-mapbox-shortcode/</guid>
-    <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
-<p>The <code>mapbox</code> shortcode supports interactive maps in Hugo with <a href="https://docs.mapbox.com/mapbox-gl-js" target="_blank" rel="noopener noreffer ">Mapbox GL JS</a> library.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - music Shortcode</title>
-    <link>http://alphacat.fun/theme-documentation-music-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 12:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://alphacat.fun/theme-documentation-music-shortcode/</guid>
-    <description><![CDATA[<p>The <code>music</code> shortcode embeds a responsive music player based on <a href="https://github.com/MoePlayer/APlayer" target="_blank" rel="noopener noreffer ">APlayer</a> and <a href="https://github.com/metowolf/MetingJS" target="_blank" rel="noopener noreffer ">MetingJS</a>.</p>]]></description>
+    <title>二叉树（2）</title>
+    <link>http://alphacat.fun/%E4%BA%8C%E5%8F%89%E6%A0%912/</link>
+    <pubDate>Sun, 12 Mar 2023 10:53:12 &#43;0800</pubDate>
+    <author>Jason</author>
+    <guid>http://alphacat.fun/%E4%BA%8C%E5%8F%89%E6%A0%912/</guid>
+    <description><![CDATA[<h1 id="算法学习先从简单题目开始刷起">算法学习先从简单题目开始刷起</h1>
+<p>算法学习，我个人认为建立学习的兴趣和信心最重要，所以先从简单题开始刷起，而越是简单的题目就越能直戳算法题目的本质，直指核心要点，只有这样才能快速培养起来我们对于算法问题的本质的熟悉度，这样看到中等难度或者高难度的题目也能很快分析出这道题目的本质考点，才能有思路解决问题，当一道题有了思路，剩下的就是代码的编写和堆砌了，这一部分考验的是对编程语言的熟悉程度，因此也要求我们对于用来解答问题使用的编程语言也要非常熟悉才行，这就需要大量的使用和练习了。</p>
+<h2 id="简单题目先从二叉树开始刷起">简单题目先从二叉树开始刷起</h2>
+<p>为什么这么说，因为二叉树算是数据结构以及算法最基本的最容易解答的一类题目了，其他的N叉树，也是从二叉树基础上进行扩展而来，用来入门和练手一定是最适合的题目类型了。</p>
+<h3 id="第一题力扣104二叉树的最大深度httpsleetcodecnproblemsmaximum-depth-of-binary-tree"><a href="https://leetcode.cn/problems/maximum-depth-of-binary-tree/" target="_blank" rel="noopener noreffer ">第一题.力扣104.二叉树的最大深度</a></h3>
+<p>给定一个二叉树，找出其最大深度。
+二叉树的深度为根节点到最远叶子节点的最长路径上的节点数。
+<strong>说明:</strong> 叶子节点是指没有子节点的节点。
+<strong>示例：</strong>
+给定二叉树 <code>[3,9,20,null,null,15,7]</code>，</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-MarkDown" data-lang="MarkDown"><span class="line"><span class="cl">    3
+</span></span><span class="line"><span class="cl">   / \
+</span></span><span class="line"><span class="cl">  9  20
+</span></span><span class="line"><span class="cl">     /  \
+</span></span><span class="line"><span class="cl">   15   7
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>返回它的最大深度 3 。
+<strong>解题思路</strong></p>
+<ul>
+<li><a href="http://data.biancheng.net/view/325.html" target="_blank" rel="noopener noreffer ">深度优先搜索（Depth First Search）</a></li>
+<li>找出终止条件：当前节点为空</li>
+<li>找出返回值：节点为空时说明高度为0，所以返回0，节点不为空时则分别求左右子树的高度的最大值，同时加1表示当前节点的高度，返回该数值</li>
+<li>某层的执行过程：在返回值部分基本已经描述清楚</li>
+<li>时间复杂度：O(n)</li>
+</ul>]]></description>
 </item>
 </channel>
 </rss>
